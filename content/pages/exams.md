@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains exams from previous years as study guides.  Solutions
+  are also provided for selected exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
